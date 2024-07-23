@@ -1,0 +1,60 @@
+/**
+  * Component: Teaser, About
+  *  
+  * @description
+  * -
+  */
+
+
+.teaser-about {
+  @include grid-parent($config: $grid-4);
+  padding: 20px 0 24px;
+  @include stack(md);
+  border-top: 2px solid #ddd;
+  border-bottom: 2px solid #ddd;
+
+  .teaser-img {
+    grid-column: 1/-1;
+    @include respond-to(m){
+      grid-column: 4/-1;
+    }
+  }
+
+  .teaser-img img {
+    border-radius: 8px;
+  }
+
+  .teaser-txt {
+    position: relative;
+    padding-right: 32px;
+    grid-column: 1/-1;
+    @include respond-to(m){
+      grid-column: 1/4;
+    }
+  }
+
+  // .teaser-txt p {
+  //   @include stack(xs);
+  // }
+
+
+  .teaser-txt a {
+    display: inline-block;
+    @include stack(sm);
+    @include respond-to(m){
+      position: absolute;
+      bottom: -8px;
+      margin: 0 !important;
+      padding: 0 !important;
+    }
+  }
+
+  .teaser-txt a::before {
+    content: "\2192";
+    margin-right: 8px;
+    color: #5f16bf;
+  }
+}
+
+
+

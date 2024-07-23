@@ -1,0 +1,40 @@
+/**
+	* Spacing Configuration
+	*
+  * @description
+  * Spacing values configuration to be used with the inset(), inline(), and 
+  * stack() mixins. 
+  *
+  * Space values are defined in maps indexed with tshirt size labels. The
+  * values are specified as the number of the baselines required. 
+  * $spacing is the default map used for the spacing mixins, but more maps may 
+  * be created as needed.
+  * 
+  * For more detailed documentation see the code guidelines  
+  */
+
+
+
+
+
+// Spacing Values
+// ----------------------------------------------------------------------------
+
+/**
+  * $spacing
+  *
+  * @description
+  * The default map used by the spacing mixins
+  *
+  * 
+  *
+  */
+
+$spacing: (
+  xxs : 1, 
+  xs  : 4,
+  sm  : 4,  
+  md  : 13,   
+  lg  : 24,   
+  xl  : 36
+);

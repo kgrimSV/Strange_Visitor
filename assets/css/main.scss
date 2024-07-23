@@ -1,0 +1,67 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+// @import 'minima';
+
+
+// import vendor files
+@import
+	'z_boilerplate/plumber';
+
+
+// import files from utils folder
+@import
+	'utils/mixins',
+	'utils/functions';
+
+
+// import files from config folder
+@import
+	'config/type',
+	'config/layout',
+	'config/color',
+	'config/spacing';
+
+
+// import files from base folder
+@import
+	'z_boilerplate/reset',	
+	'z_boilerplate/typography';
+
+
+// import base file
+@import
+	'template/base';
+
+
+
+// import files from components folder
+@import
+	'template/pages/page--home',
+	'template/components/component--header',
+	'template/components/component--teaser-about',
+	'template/components/component--teaser-service',
+	'template/components/component--contact',
+	'template/components/component--footer';
+//   'template/components/component--breadcrumbs',
+//   'template/components/component--footer',
+// 	'template/components/component--header',
+// 	'template/components/component--home',
+// 	'template/components/component--media-bg-img',
+// 	'template/components/component--media-download',
+// 	'template/components/component--media-video',
+// 	'template/components/component--media-video2x',
+// 	'template/components/component--media-video-home3x',
+// 	'template/components/component--media-hero-video',
+// 	'template/components/component--media-hero-img',
+// 	'template/components/component--media-img',
+// 	'template/components/component--media-img2x',
+// 	'template/components/component--sidenav',
+// 	'template/components/component--teasers',
+// 	'template/components/component--txt-cat',
+// 	'template/components/component--txt-fig',
+// 	'template/components/component--txt-intro',
+// 	'template/components/component--txt-meta',
+// 	'template/components/component--txt-pubs';
+

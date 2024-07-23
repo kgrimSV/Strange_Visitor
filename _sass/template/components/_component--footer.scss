@@ -1,0 +1,47 @@
+/**
+  * Component: Footer
+  *  
+  * @description
+  * -
+  */
+
+
+footer {
+  width: 100vw;
+  background-color: #1c1c1c;
+  color: white;
+  padding-top: 32px;
+
+  .logos {
+    list-style: none;
+    grid-column: 1/4;
+    @include stack(lg);
+    @include respond-to(s){
+      grid-column: 1/-1;
+    }
+  }
+
+  .logos li {
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 32px;
+    @include stack(xs);
+  }
+
+  .logos img {
+    max-width: 200px;
+    max-height: 50px;
+    opacity: .65;
+    mix-blend-mode: lighten;
+  }
+
+  .email, .smallprint {
+    grid-column: span 2;
+    opacity: .65;
+    @include typestyle($sans-xs-reg);
+  }
+
+}
+
+
+

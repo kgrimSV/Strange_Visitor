@@ -1,0 +1,141 @@
+/**
+  * Base Styles
+  *  
+  * @description
+  * site-wide styles unique to this project, 
+  * only file where element selectors should be used
+  */
+
+
+
+
+
+// Top Level
+// ----------------------------------------------------------------------------
+
+html, body {
+  min-height: 100vh;
+  height: 100%;
+  color: #1c1c1c;
+}
+
+* {
+  scroll-behavior: smooth;
+}
+
+
+
+
+
+
+// Layout
+// ----------------------------------------------------------------------------
+ 
+.layout-wrapper {
+  @include grid-parent($config: $grid-4);
+}
+
+.homepage-content p, .page-content p {
+  padding-right: 32px;
+}
+
+.page-content {
+  margin-top: 200px;
+  @include stack(lg);
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+ul,
+ol,
+table,
+hr {
+  grid-column: span 4;
+  @include respond-to(m){
+    grid-column: 1 / 4;
+  }
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  @include stack(xs);
+}
+
+p,
+ul,
+ol,
+table,
+hr {
+  @include stack(sm);
+}
+
+
+
+// General type
+// ----------------------------------------------------------------------------
+
+
+p,
+ul,
+ol,
+table,
+span,
+label,
+button,
+a,
+input,
+textarea {
+  @include typestyle($sans-sm-reg);
+}
+
+
+h1 {
+  @include typestyle($sans-xl-reg);
+}
+
+h2 {
+  @include typestyle($sans-lg-reg);
+}
+
+
+h3, .deck {
+  @include typestyle($sans-md-reg);
+}
+
+hr {
+  width: 100%;
+  border: none;
+  border-top: 2px solid #ddd;
+  @include stack(md);
+}
+
+a {
+  text-decoration: none;
+  transition: all 100ms ease-out;
+}
+
+a.custom::after {
+  display: none;
+}
+
+a::after {
+  content: '';
+  height: 2px;
+  display: block;
+  background: #5f16bf; //#1c1c1c;
+  transition: 100ms;
+  opacity: 0;
+}
+
+a:hover::after {
+  opacity: .5;
+}

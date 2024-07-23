@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+
+  {%- include head.html -%}
+
+  <body>
+
+  	<div class='home-hero'>
+    	{%- include header.html -%}
+    	<div class='img-wrapper'>
+    		<img src='{{ site.url }}/assets/images/{{ page.image }}'>
+    	</div>
+		</div>
+
+    <main class="homepage-content layout-wrapper" aria-label="Content">
+    	<h1>Strange Visitor</h1>
+    	<p class='deck'>
+    		{{ page.deck }}
+    	</p>
+    	{{ content }}
+    </main>
+
+    {%- 	include teaser_about.html 
+	  image = "head.jpg"
+	  title = "About Kathryn"
+	  blurb = "Kathryn Jepsen has a soft spot for cozy science fiction and fantasy, and she likes her horror more moody than murderous. She enjoys reading about AI, but she works exclusively with fellow humans."
+	  link = "Learn More"
+		-%}
+
+		<div class='layout-wrapper services'>
+
+			<h2>Services</h2>
+
+			{%- 	include teaser_service.html 
+		  title = "Short Fiction Coaching"
+		  blurb = "Work with Kathryn to prepare a suite of short fiction pieces for publication"
+			-%}
+
+			{%- 	include teaser_service.html 
+		  title = "Manuscript Evaluation"
+		  blurb = "Receive an overview highlighting both the strengths of your novel and areas to develop further "
+			-%}
+
+			{%- 	include teaser_service.html 
+		  title = "Developmental Edit"
+		  blurb = "Work with Kathryn to shape and hone your novel"
+			-%}
+
+			{%- 	include teaser_service.html 
+		  title = "Line Edit"
+		  blurb = "Receive a mark-up of your manuscript with suggestions for improvements at the sentence level"
+			-%}
+		</div>
+
+		{%- include contact.html -%}
+
+    {%- include footer.html -%}
+
+  </body>
+
+</html>

@@ -1,0 +1,44 @@
+<header>
+
+	<a class='homelink custom' href='{{ site.url }}'>
+		<span>S</span>
+		<span>t</span>
+		<span>r</span>
+		<span>a</span>
+		<span>n</span>
+		<span>g</span>
+		<span>e</span>
+		<span>&nbsp;</span>
+		<span>V</span>
+		<span>i</span>
+		<span>s</span>
+		<span>i</span>
+		<span>t</span>
+		<span>o</span>
+		<span>r</span>
+	</a>
+
+	<ul class='nav'>
+		<li><a href='{{ site.url }}/about'>About</a></li>
+		<li><a href='{{ site.url }}/services'>Services</a></li>
+		<li><a href='#contact' class='link-contact custom'>Contact</a></li>
+	</ul>
+
+
+	<div class="icon-menu">
+      <a class="menu-toggle js-ddtrigger-closed js-drop-click" id="toggle-mobile-pane" data-menu="mobile-pane">Menu <span class='arrow'></span></a>
+    </div>
+
+</header>
+
+
+<div class="nav-pane js-dropdown-hidden" id="mobile-pane">
+	<div class='nav-wrapper'>
+		<ul class='nav'>
+			<li><a href='{{ site.url }}'>Home</a></li>
+			<li><a href='{{ site.url }}/about'>About</a></li>
+			<li><a href='{{ site.url }}/services'>Services</a></li>
+			<li><a href='#contact' class='link-contact custom'>Contact</a></li>
+		</ul>
+	</div>
+</div>

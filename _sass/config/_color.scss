@@ -1,0 +1,89 @@
+/**
+  * Color Configuration
+  *
+  * @description
+  * Configuration of colors and additional styles for use with the color(),
+  * gradient(), and alpha() functions. 
+  *
+  * The color map is the only requirement, the other maps are available as
+  * necessary. 
+  *
+  * The color maps use the name of the color as a key and a map of its 
+  * variants as the value. Different schemes may be used to name the variants,
+  * such as 'background' or 'highlight'.
+  * 
+  * Gradient maps are indexed by the name of the gradient, the gradient's 
+  * definition is provided as a map including the gradient's angle, it's 
+  * flavor ('linear' or 'radial') and stops. 
+  *
+  * Alpha maps are indexed by a series of 'X's to represent the level of 
+  * opacity, the values are a unitless number between 0 (transparent) and 
+  * 1 (opaque)
+  *
+  * For more detailed documentation see the code guidelines  
+  */
+
+
+
+
+
+// Colors
+// ----------------------------------------------------------------------------
+
+/**
+  * $colors
+  *
+  * @description
+  * The default map of the color() function
+  * 'base' is the default variant of the color() function
+  *
+  */
+
+$colors   : (
+  neutral : 
+  (X: #ffffff, XX: #edf1f5, XXX: #d8dce1, XXXX: #6e6e78, XXXXX: #080812),
+  blue    : 
+  (X: #e7f6fd, XX: #badef5, XXX: #5d88c6, XXXX: #0061af, XXXXX: #1d1651),
+  green   : 
+  (X: #f2f9f8, XX: #b8e2de, XXX: #009f90, XXXX: #007b70, XXXXX: #003a41),
+  warm    : 
+  (X: #fff6f4, XX: #fcd9d5, XXX: #ee6254, XXXX: #d23c51, XXXXX: #640033),
+  yellow  : 
+  (X: #fef8ee, XX: #f8a4be, XXX: #f0c55f, XXXX: #f3ac1d, XXXXX: #bb902b),
+);
+
+
+
+
+
+// Additional Styles
+// ----------------------------------------------------------------------------
+
+/**
+  * $gradients
+  *
+  * @description
+  * Default map of the gradient() function
+  * 
+  * (Initial values are placeholder)
+  */
+  
+// $gradients : (
+// 	dawn     : (angle: 0, flavor: 'linear', stops: (#FFFEE2 20%, #CFF2FF, #FFE2E2 80%, #142146))
+// );
+
+
+/**
+  * $alphas
+  *
+  * @description
+  * Default map of the alpha() function
+  * 
+  * (Initial values are placeholder)
+  */
+
+// $alphas : (
+// 	X     : .25,
+// 	XX    : .5,
+// 	XXX   : .75,
+// );

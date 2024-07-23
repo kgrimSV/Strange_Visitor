@@ -1,0 +1,24 @@
+{% comment %} 
+
+Teaser, service
+-------------------------------------------------------------------------------
+
+available parameters:
+* title
+* blurb
+
+* required
+
+-------------------------------------------------------------------------------
+
+{% endcomment %}
+
+
+
+
+<div class='teaser-service'>
+	<a href='{{ site.url }}/services#{{ include.title | slugify }}' class='custom'>
+		<h3>{{ include.title }}</h3>
+		<p>{{ include.blurb }}</p>
+	</a>
+</div>

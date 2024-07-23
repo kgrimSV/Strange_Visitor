@@ -1,0 +1,49 @@
+/**
+  * Page: Home
+  *  
+  * @description
+  * -
+  */
+
+
+.home-hero {
+  @include stack(md);
+
+  header {
+    color: white;
+  }
+
+  .img-wrapper {
+    max-height: 80vh;
+    overflow: hidden;
+  }
+
+  .img-wrapper img {
+    width: 100vw;
+  }
+
+  li a::after {
+    background-color: white;
+  }
+
+  li .link-contact {
+    color: #1c1c1c;
+    background-color: white;
+  }
+
+  li .link-contact:hover {
+    color: white;
+  }
+}
+
+.homepage-content {
+  @include stack(sm);
+}
+
+.services {
+  @include stack(md);
+}
+
+.services h2 {
+  grid-column: span 4;
+}

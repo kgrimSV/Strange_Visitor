@@ -1,0 +1,33 @@
+{% comment %} 
+
+Teaser, about
+-------------------------------------------------------------------------------
+
+available parameters:
+* image
+* title
+* blurb
+* link
+
+* required
+
+-------------------------------------------------------------------------------
+
+{% endcomment %}
+
+
+
+
+<div class='teaser-about'>
+
+	<div class='teaser-txt'>
+		<h3>{{ include.title }}</h3>
+		<p>{{ include.blurb }}</p>
+		<a href='{{ site.url }}/about'>{{ include.link }}</a>
+	</div>
+
+	<div class='teaser-img'>
+		<img src='{{ site.url }}/assets/images/{{ include.image }}'>
+	</div>
+	
+</div>
