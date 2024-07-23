@@ -42,6 +42,13 @@ footer {
     mix-blend-mode: lighten;
   }
 
+  .email {
+    width: fit-content;
+    &::after{
+      background: white;
+    }
+  }
+
   .email, .smallprint {
     grid-column: span 2;
     opacity: .65;
