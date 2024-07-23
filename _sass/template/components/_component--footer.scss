@@ -14,7 +14,7 @@ footer {
 
   .logos {
     list-style: none;
-    grid-column: 1/4;
+    grid-column: 1/-1;
     @include stack(lg);
     @include respond-to(s){
       grid-column: 1/-1;
@@ -23,6 +23,9 @@ footer {
 
   .logos lh {
     display: block;
+    opacity: .65;
+    @include typestyle($sans-xs-reg);
+    @include stack(xxs);
   }
 
   .logos li {
