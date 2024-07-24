@@ -172,6 +172,9 @@ header {
 
 .nav-pane a {
   @include typestyle($sans-md-reg);
+  &::after {
+    background-color: white;
+  }
 }
 
 .nav-pane li .link-contact {
@@ -179,11 +182,13 @@ header {
   // background-color: purple;
   padding: 3px 20px 4px;
   border-radius: 22px;
+  color: #1c1c1c;
+  background-color: white;
 }
 
 .nav-pane li .link-contact:hover {
   background-color: rgba(255, 255, 255, .75);
-  color: #1c1c1c;
+  color: white;
 }
 
 
