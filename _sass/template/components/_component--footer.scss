@@ -30,9 +30,17 @@ footer {
 
   .logos li {
     display: inline-block;
+    float: left;
     vertical-align: middle;
     margin-right: 32px;
     @include stack(xs);
+  }
+
+  .logos li:nth-child(5) {
+    clear: left;
+    @include respond-to(m){
+      clear: none;
+    }
   }
 
   .logos img {
@@ -42,17 +50,29 @@ footer {
     mix-blend-mode: lighten;
   }
 
+  .smallprint {
+    grid-row: 3;
+    @include respond-to(s){
+      grid-row: 2;
+    }
+  }
+
   .email {
     width: fit-content;
+    grid-row: 2;
+    @include stack(xxs);
     &::after{
       background: white;
     }
   }
 
   .email, .smallprint {
-    grid-column: span 2;
+    grid-column: 1/-1;
     opacity: .65;
     @include typestyle($sans-xs-reg);
+    @include respond-to(s){
+      grid-column: span 2;
+    }
   }
 
 }
