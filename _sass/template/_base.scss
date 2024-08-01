@@ -16,7 +16,8 @@
 html, body {
   min-height: 100vh;
   height: 100%;
-  color: #1c1c1c;
+  color: var(--dark);
+  background-color: var(--light);
 }
 
 * {
@@ -131,7 +132,7 @@ a::after {
   content: '';
   height: 2px;
   display: block;
-  background: #5f16bf; //#1c1c1c;
+  background: var(--accent); 
   transition: 100ms;
   opacity: 0;
 }

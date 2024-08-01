@@ -113,15 +113,15 @@ header {
 
 
   li .link-contact {
-    color: white;
-    background-color: purple;
+    color: var(--light);
+    background-color: var(--accent);
     padding: 3px 20px 4px;
     margin-top: 1px;
     border-radius: 22px;
   }
 
   li .link-contact:hover {
-    background-color: #1c1c1c;
+    background-color: var(--dark);
     opacity: .75;
   }
 
@@ -142,8 +142,8 @@ header {
 }
 
 .nav-pane {
-  background-color: #1c1c1c;
-  color: white;
+  background-color: var(--dark);
+  color: var(--light);
   position: absolute;
   top: 68px;
   left: 20px;
@@ -173,22 +173,20 @@ header {
 .nav-pane a {
   @include typestyle($sans-md-reg);
   &::after {
-    background-color: white;
+    background-color: var(--light);
   }
 }
 
 .nav-pane li .link-contact {
-  // color: white;
-  // background-color: purple;
   padding: 3px 20px 4px;
   border-radius: 22px;
-  color: #1c1c1c;
-  background-color: white;
+  color: var(--dark);
+  background-color: var(--light);
 }
 
 .nav-pane li .link-contact:hover {
   background-color: rgba(255, 255, 255, .75);
-  color: white;
+  color: var(--light);
 }
 
 

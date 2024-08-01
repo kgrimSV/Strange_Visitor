@@ -10,7 +10,7 @@
   @include stack(md);
 
   header {
-    color: white;
+    color: var(--light);
   }
 
   .img-wrapper {
@@ -23,16 +23,16 @@
   }
 
   li a::after {
-    background-color: white;
+    background-color: var(--light);
   }
 
   li .link-contact {
-    color: #1c1c1c;
-    background-color: white;
+    color: var(--dark);
+    background-color: var(--light);
   }
 
   li .link-contact:hover {
-    color: white;
+    color: var(--light);
   }
 }
 

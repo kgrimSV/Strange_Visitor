@@ -52,7 +52,7 @@
   .teaser-txt a::before {
     content: "\2192";
     margin-right: 8px;
-    color: #5f16bf;
+    color: var(--accent);
   }
 }
 

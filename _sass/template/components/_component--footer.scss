@@ -8,8 +8,8 @@
 
 footer {
   width: 100vw;
-  background-color: #1c1c1c;
-  color: white;
+  background-color: var(--dark);
+  color: var(--light);
   padding-top: 32px;
 
   .logos {
