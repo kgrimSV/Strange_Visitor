@@ -1,7 +1,7 @@
 ---
 layout: home
 deck: "Does your writing transport readers into a new world? Bring Strange Visitor Editing Services along for the journey!"
-image: fpo.jpg
+image: hero.gif
 ---
 
 

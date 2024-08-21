@@ -18,6 +18,17 @@
     overflow: hidden;
   }
 
+  .img-scrim {
+    position: absolute;
+    top: 0;
+    width: 100vw;
+    height: 70px;
+    background-color: var(--accent);
+    opacity: .45;
+    z-index: 100;
+    box-shadow: 0px 20px 20px 0px rgba(44,17,142,1);
+  }
+
   .img-wrapper img {
     width: 100vw;
   }

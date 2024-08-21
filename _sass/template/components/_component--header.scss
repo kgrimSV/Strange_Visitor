@@ -24,6 +24,7 @@ header {
   position: absolute;
   top: 24px;
   left: 20px;
+  z-index: 200;
   @include respond-to(s) {
     left: 60px;
   }
