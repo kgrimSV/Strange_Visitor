@@ -8,7 +8,7 @@ permalink: /services/
 
 ## Short Fiction Coaching
 - **Who&rsquo;s it for?** Writers of flash fiction, short stories, novelettes and novellas
-- **What is it?** Kathryn will work with you to edit a suite of short pieces and submit them for publication.
+- **What is it?** Kathryn will work with you to edit a suite of short pieces and prepare to submit them for publication.
 - **What does it include?** Developmental editing, line editing, and help with the submission process
 
 <br>
