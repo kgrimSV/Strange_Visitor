@@ -12,12 +12,24 @@ footer {
   color: var(--light);
   padding-top: 32px;
 
+  .sv-logo {
+    opacity: .65;
+    grid-column: 1/-1;
+    max-width: 150px;
+    @include stack(md);
+    @include respond-to(m){
+      grid-column: 1/2;
+      @include stack(sm);
+    }
+  }
+
+
   .logos {
     list-style: none;
     grid-column: 1/-1;
     @include stack(lg);
-    @include respond-to(s){
-      grid-column: 1/-1;
+    @include respond-to(m){
+      grid-column: 2/-1;
     }
   }
 
@@ -52,27 +64,28 @@ footer {
 
   .smallprint {
     grid-row: 3;
-    @include respond-to(s){
-      grid-row: 2;
+    @include respond-to(m){
+      grid-column: 1/2;
     }
   }
 
   .email {
     width: fit-content;
-    grid-row: 2;
+    grid-row: 4;
     @include stack(xxs);
     &::after{
       background: white;
     }
+    grid-column: 1/-1;
+    @include respond-to(m){
+      grid-row: 3;
+      grid-column: 2/-1;
+    }
   }
 
   .email, .smallprint {
-    grid-column: 1/-1;
     opacity: .65;
     @include typestyle($sans-xs-reg);
-    @include respond-to(s){
-      grid-column: span 2;
-    }
   }
 
 }
