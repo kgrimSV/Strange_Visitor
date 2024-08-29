@@ -4,7 +4,7 @@ title: Services
 permalink: /services/
 ---
 
----
+--- 
 
 ## Short Fiction Coaching
 - **Who&rsquo;s it for?** Writers of flash fiction, short stories, novelettes and novellas
