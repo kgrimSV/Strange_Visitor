@@ -33,6 +33,11 @@ footer {
     }
   }
 
+  .logos ul {
+    width: 100%;
+    display: block;
+  }
+
   .logos lh {
     display: block;
     opacity: .65;
@@ -42,7 +47,7 @@ footer {
 
   .logos li {
     display: inline-block;
-    float: left;
+    // float: left;
     vertical-align: middle;
     margin-right: 32px;
     @include stack(xs);
