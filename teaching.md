@@ -33,7 +33,8 @@ permalink: /teaching/
 
 ## Past
 
-[How to Fix an Article with a Broken Structure ACES VCON24 Webinar](https://aceseditors.org/conference/past-conferences/vcon24-central)  
+[How to Fix an Article with a Broken Structure](https://aceseditors.org/conference/past-conferences/vcon24-central)  
+<small>ACES VCON24 Webinar</small><br>
 <small>September 26, 2024</small>
 
 
