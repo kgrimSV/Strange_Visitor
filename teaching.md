@@ -24,7 +24,7 @@ permalink: /teaching/
 ## Recorded
 
 [Effective Science Editing: Lessons from Fiction and Academia](https://www.the-efa.org/product/effective-science-editing-lessons-from-fiction-and-academia-webinar-recording/) <br>
-<small>Editorial Freelancers Association Webinar</small>
+<small>Editorial Freelancers Association Webinar</small> <br>
 <small>August 22, 2024</small>
 
 <br>
