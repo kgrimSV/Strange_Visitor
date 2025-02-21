@@ -19,7 +19,7 @@
     grid-column: span 2;
   }
   @include respond-to(m){
-    grid-column: span 1;
+    // grid-column: span 1;
     @include stack(md);
   }
 

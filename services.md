@@ -15,10 +15,21 @@ permalink: /services/
 
 ---
 
+## Beta Reading
+- **Who&rsquo;s it for?** Writers of novels looking for an assessment of their work 
+What is it? A beta read focuses on reader reaction to the manuscript. 
+- **What does it include?** A completed questionnaire about the beginning, characters, plot, pacing, tone, setting and worldbuilding, dialogue, point of view, reader engagement, and ending of your manuscript
+- **How much does it cost?** $450 for up to 62,500 words; cost can be applied to an upgrade to a Manuscript Evaluation or Developmental Edit 
+
+<br>
+
+---
+
 ## Manuscript Evaluation
-- **Who&rsquo;s it for?** Writers of novels looking for an assessment of their work
-- **What is it?** More lightweight than a developmental edit, a manuscript evaluation is a big-picture overview covering aspects of craft like character development, structure, and theme.
-- **What does it include?** A manuscript evaluation letter and an optional 30-minute consultation; can be upgraded to a Developmental Edit for a reduced cost
+- **Who&rsquo;s it for?** Writers of novels looking for an assessment of their work, plus big-picture advice on edits 
+- **What is it?** A manuscript evaluation is a big-picture overview that evaluates aspects of craft like character development, structure, and theme.
+- **What does it include?** A manuscript evaluation letter and an optional 30-minute consultation
+- **How much does it cost?** around $1,000–$1,500 for up to 62,500 words; cost can be applied to an upgrade to a Developmental Edit  
 
 <br>
 
