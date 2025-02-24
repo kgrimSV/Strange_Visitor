@@ -49,5 +49,5 @@ permalink: /services/
 ## Line Edit
 - **Who&rsquo;s it for?** Writers of novels that are beyond the developmental editing stage
 - **What is it?** Using track changes, Kathryn will mark up your manuscript with suggestions for improvements at the sentence level, covering aspects of craft like pacing, dialogue, narrative distance, and eliciting emotion.
-- **What does it include?** An editorial letter, editorial queries in your manuscript, and an optional 30-minute consultation
+- **What does it include?** An editorial letter; editorial queries in your manuscript; an optional 30-minute consultation
 - **How much does it cost?** Estimate available upon request
