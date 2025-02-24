@@ -8,7 +8,7 @@ permalink: /services/
 
 ## Short Fiction Coaching
 - **Who&rsquo;s it for?** Writers of flash fiction, short stories, novelettes and novellas who want to submit for publication
-- **What is it?** Short fiction coaching involves working with an editor to polish a suite of short pieces and to prepare them for submission.
+- **What is it?** Short fiction coaching involves working with an editor to polish a suite of short pieces and prepare them for submission.
 - **What does it include?** Big-picture developmental editing; sentence-level line editing; help with the submission process
 - **How much does it cost?** Estimate available upon request 
 
