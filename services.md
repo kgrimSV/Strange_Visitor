@@ -7,9 +7,9 @@ permalink: /services/
 --- 
 
 ## Short Fiction Coaching
-- **Who&rsquo;s it for?** Writers of flash fiction, short stories, novelettes and novellas
-- **What is it?** Kathryn will work with you to edit a suite of short pieces and prepare to submit them for publication.
-- **What does it include?** Developmental editing; line editing; help with the submission process
+- **Who&rsquo;s it for?** Writers of flash fiction, short stories, novelettes and novellas who want to submit for publication
+- **What is it?** Short fiction coaching involves working with an editor to polish a suite of short pieces and to prepare them for submission.
+- **What does it include?** Big-picture developmental editing; sentence-level line editing; help with the submission process
 - **How much does it cost?** Estimate available upon request 
 
 <br>
@@ -27,8 +27,8 @@ permalink: /services/
 ---
 
 ## Manuscript Evaluation
-- **Who&rsquo;s it for?** Writers of novels looking for an assessment of their work plus big-picture advice on edits 
-- **What is it?** A manuscript evaluation goes beyond a beta read to offer guidance to the writer.
+- **Who&rsquo;s it for?** Writers of novels looking for an assessment of their work plus big-picture editing recommendations
+- **What is it?** A manuscript evaluation goes beyond the reader reaction of a beta read to offer big-picture guidance on how to address issues and improve the manuscript.
 - **What does it include?** A completed questionnaire about the beginning, characters, plot, pacing, tone, setting and worldbuilding, dialogue, point of view, reader engagement, and ending of your manuscript, including specific recommendations; an optional 30-minute consultation
 - **How much does it cost?** around $1,000–$1,500 for up to 62,500 words; cost can be applied to an upgrade to a Developmental Edit  
 
@@ -38,7 +38,7 @@ permalink: /services/
 
 ## Developmental Edit
 - **Who&rsquo;s it for?** Writers of novels looking for the full developmental editing experience
-- **What is it?** A developmental edit goes beyond a manuscript evaluation to provide in-manuscript comments recommending how and where big-picture editing advice can be applied. 
+- **What is it?** A developmental edit goes beyond the guidance of a manuscript evaluation to provide both a plan for revision and in-text comments suggesting how and where recommended edits can be applied.
 - **What does it include?** An editorial letter that evaluates the manuscript's strengths and offers advice on the most impactful areas for improvement; editorial queries within your manuscript; two optional 30-minute consultations
 - **How much does it cost?** Estimate available upon request
 
@@ -48,6 +48,6 @@ permalink: /services/
 
 ## Line Edit
 - **Who&rsquo;s it for?** Writers of novels that are beyond the developmental editing stage
-- **What is it?** Using track changes, Kathryn will mark up your manuscript with suggestions for improvements at the sentence level, covering aspects of craft like pacing, dialogue, narrative distance, and eliciting emotion.
+- **What is it?** A line edit zooms in to offer recommendations at the sentence level, covering aspects of craft like pacing, dialogue, narrative distance, and eliciting emotion.
 - **What does it include?** An editorial letter; editorial queries in your manuscript; an optional 30-minute consultation
 - **How much does it cost?** Estimate available upon request
