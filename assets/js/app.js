@@ -40,4 +40,21 @@ if (dropdownsClick.length > 0) {
 
 
 
+// Include accordion
+// ----------------------------------------------------------------------------
+var acc = document.getElementsByClassName("accordion");
+var i;
+
+for (i = 0; i < acc.length; i++) {
+  acc[i].getElementsByTagName('h2')[0].addEventListener("click", function() {
+    this.classList.toggle("active");
+    var panel = this.nextElementSibling;
+    if (panel.style.maxHeight) {
+      panel.style.maxHeight = null;
+    } else {
+      panel.style.maxHeight = panel.scrollHeight + "px";
+    } 
+  });
+} 
+
 
