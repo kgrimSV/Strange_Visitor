@@ -47,7 +47,7 @@ permalink: /services/
 ---
 
 ## Line Edit
-- **Who&rsquo;s it for?** Writers of novels that are beyond the developmental editing stage
+- **Who&rsquo;s it for?** Writers looking to polish their work at the sentence level
 - **What is it?** A line edit zooms in to offer recommendations at the sentence level, covering aspects of craft like pacing, dialogue, narrative distance, and eliciting emotion.
 - **What does it include?** An editorial letter; editorial queries in your manuscript; an optional 30-minute consultation
 - **How much does it cost?** Estimate available upon request
