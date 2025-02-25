@@ -36,7 +36,7 @@ permalink: /services/
 
 ---
 
-## Developmental Edit
+## Developmental Editing
 - **Who&rsquo;s it for?** Writers of novels looking for the full developmental editing experience
 - **What is it?** A developmental edit goes beyond the guidance of a manuscript evaluation to provide both a plan for revision and in-text comments suggesting how and where recommended edits can be applied.
 - **What does it include?** An editorial letter that evaluates the manuscript's strengths and offers advice on the most impactful areas for improvement; editorial queries within your manuscript; two optional 30-minute consultations
@@ -46,7 +46,7 @@ permalink: /services/
 
 ---
 
-## Line Edit
+## Line Editing
 - **Who&rsquo;s it for?** Writers looking to polish their work at the sentence level
 - **What is it?** A line edit zooms in to offer recommendations at the sentence level, covering aspects of craft like pacing, dialogue, narrative distance, and eliciting emotion.
 - **What does it include?** An editorial letter; editorial queries in your manuscript; an optional 30-minute consultation
