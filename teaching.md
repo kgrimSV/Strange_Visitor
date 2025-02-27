@@ -38,7 +38,7 @@ permalink: /teaching/
 {%- 	include accordion.html 
   title = "Past"
   panel = "
-  	<a href='https://aceseditors.org/conference/past-conferences/vcon24-central'>How to Fix an Article with a Broken Structure></a>
+  	<a href='https://aceseditors.org/conference/past-conferences/vcon24-central'>How to Fix an Article with a Broken Structure</a>
   	<br>
 	<small>ACES VCON24 Webinar</small>
 	<br>
