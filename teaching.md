@@ -17,7 +17,7 @@ permalink: /teaching/
 <small>March 13, 2025</small>
 
 [Conscious Language: Treating People with Dignity](https://www.associationofsciencecommunicators.org/conferences/science-talk-25/2025-program/)  <br>
-<small>SCIENCE TALK '25 Virtual Talk</small><br>
+<small>SCIENCE TALK 2025 Virtual Talk</small><br>
 <small>March 17, 2025</small>
 
 
