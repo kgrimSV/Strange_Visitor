@@ -12,10 +12,6 @@ permalink: /teaching/
 <small>Editorial Freelancers Association Asynchronous Class</small><br>
 <small>February 26–April 8, 2025</small>
 
-[Four Basic Structures for a Science Article Aimed at the Public](https://webinars.editors.ca/upcoming_webinar/four-basic-structures-for-a-science-article-aimed-at-the-general-public/) <br>
-<small>Editors Canada Webinar</small><br>
-<small>March 13, 2025</small>
-
 [Conscious Language: Treating People with Dignity](https://www.associationofsciencecommunicators.org/conferences/science-talk-25/2025-program/)  <br>
 <small>SCIENCE TALK 2025 Virtual Talk</small><br>
 <small>March 17, 2025</small>
@@ -26,6 +22,10 @@ permalink: /teaching/
 ---
 
 ## Recorded
+
+[Four Basic Structures for a Science Article Aimed at the Public](https://webinars.editors.ca/webinar_recording/four-basic-structures-for-a-science-article-aimed-at-the-general-public/) <br>
+<small>Editors Canada Webinar</small><br>
+<small>March 13, 2025</small>
 
 [Effective Science Editing: Lessons from Fiction and Academia](https://www.the-efa.org/product/effective-science-editing-lessons-from-fiction-and-academia-webinar-recording/) <br>
 <small>Editorial Freelancers Association Webinar</small> <br>
