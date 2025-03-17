@@ -37,7 +37,7 @@ permalink: /teaching/
 <a href='https://www.associationofsciencecommunicators.org/conferences/science-talk-25/'>Conscious Language: Treating People with Dignity</a>  <br>
 <small>SCIENCE TALK 2025 Virtual Talk</small><br>
 <small>March 17, 2025</small>	
-
+<br>
 <br>
    
    <a href='https://aceseditors.org/conference/past-conferences/vcon24-central'>How to Fix an Article with a Broken Structure</a>
