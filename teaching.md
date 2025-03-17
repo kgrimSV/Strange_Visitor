@@ -12,11 +12,6 @@ permalink: /teaching/
 <small>Editorial Freelancers Association Asynchronous Class</small><br>
 <small>February 26–April 8, 2025</small>
 
-[Conscious Language: Treating People with Dignity](https://www.associationofsciencecommunicators.org/conferences/science-talk-25/2025-program/)  <br>
-<small>SCIENCE TALK 2025 Virtual Talk</small><br>
-<small>March 17, 2025</small>
-
-
 <br>
 
 ---
@@ -38,7 +33,12 @@ permalink: /teaching/
 {%- 	include accordion.html 
   title = "Past"
   panel = "
-  	<a href='https://aceseditors.org/conference/past-conferences/vcon24-central'>How to Fix an Article with a Broken Structure</a>
+  [Conscious Language: Treating People with Dignity](https://www.associationofsciencecommunicators.org/conferences/science-talk-25/2025-program/)  <br>
+<small>SCIENCE TALK 2025 Virtual Talk</small><br>
+<small>March 17, 2025</small>	
+<br>
+   
+   <a href='https://aceseditors.org/conference/past-conferences/vcon24-central'>How to Fix an Article with a Broken Structure</a>
   	<br>
 	<small>ACES VCON24 Webinar</small>
 	<br>
