@@ -33,7 +33,8 @@ permalink: /teaching/
 {%- 	include accordion.html 
   title = "Past"
   panel = "
-  [Conscious Language: Treating People with Dignity](https://www.associationofsciencecommunicators.org/conferences/science-talk-25/2025-program/)  <br>
+
+<a href='https://www.associationofsciencecommunicators.org/conferences/science-talk-25/2025-program/'>Conscious Language: Treating People with Dignity</a>  <br>
 <small>SCIENCE TALK 2025 Virtual Talk</small><br>
 <small>March 17, 2025</small>	
 <br>
