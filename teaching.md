@@ -33,7 +33,9 @@ permalink: /teaching/
 
 [Developing Effective Science Communication: Lessons from Journalism, Fiction, and Academia](https://www.the-efa.org/product/developing-effective-science-communication-sp25/)  <br>
 <small>Editorial Freelancers Association Asynchronous Class</small><br>
-<small>February 26–April 8, 2025</small>
+<small>February 26–April 8, 2025</small> 
+<br>
+<br>
 
 <a href='https://www.associationofsciencecommunicators.org/conferences/science-talk-25/'>Conscious Language: Treating People with Dignity</a>  <br>
 <small>SCIENCE TALK 2025 Virtual Talk</small><br>
