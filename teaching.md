@@ -31,7 +31,7 @@ permalink: /teaching/
   title = "Past"
   panel = "
 
-<a href='https://www.the-efa.org/product/developing-effective-science-communication-sp25/'>Developing Effective Science Communication: Lessons from Journalism, Fiction, and Academia</a>  <br>
+Developing Effective Science Communication: Lessons from Journalism, Fiction, and Academia  <br>
 <small>Editorial Freelancers Association Asynchronous Class</small><br>
 <small>February 26–April 8, 2025</small> 
 <br>
