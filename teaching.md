@@ -19,7 +19,7 @@ permalink: /teaching/
 <small>Editors Canada Webinar</small><br>
 <small>March 13, 2025</small>
 
-[Effective Science Editing: Lessons from Fiction and Academia](https://www.the-efa.org/product/effective-science-editing-lessons-from-fiction-and-academia-webinar-recording/) <br>
+[Effective Science Editing: Lessons from Fiction and Academia](https://community.the-efa.org/store/viewproduct.aspx?id=25557303) <br>
 <small>Editorial Freelancers Association Webinar</small> <br>
 <small>August 22, 2024</small>
 
