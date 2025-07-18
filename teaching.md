@@ -13,6 +13,8 @@ permalink: /teaching/
 <small>October 8–November 18, 2025</small> 
 <br>
 <br>
+Register before July 29 to get 10% off, and use coupon code KJ-BiZT9h026Y to save another $10
+<br>
 
 <br>
 
