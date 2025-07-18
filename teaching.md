@@ -8,6 +8,11 @@ permalink: /teaching/
 
 ## Upcoming
 
+[Developing Effective Science Communication: Beginning](https://community.the-efa.org/events/EventDetails.aspx?alias=effective-science-communication-beginning-fa25)  <br>
+<small>Editorial Freelancers Association Asynchronous Class</small><br>
+<small>October 8–November 18, 2025</small> 
+<br>
+<br>
 
 <br>
 
