@@ -16,6 +16,11 @@ permalink: /teaching/
 Use coupon code KJ-BiZT9h026Y to save $10
 <br>
 
+[Lessons from the Slush Pile: Advice on Journal Submissions from Editors and Readers](https://charlottelit.configio.com/pd/615/panel-discussion-lessons-from-the-slush-pile)<br>
+<small>Charlotte Lit Panel Discussion</small><br>
+<small>December 4, 2025</small> 
+<br>
+
 <br>
 
 ---
