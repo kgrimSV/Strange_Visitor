@@ -13,7 +13,7 @@ permalink: /teaching/
 <small>October 8–November 18, 2025</small> 
 <br>
 <br>
-Use coupon code KJ-BiZT9h026Y to save $10
+<small>Use coupon code KJ-BiZT9h026Y to save $10</small>
 <br>
 
 [Lessons from the Slush Pile: Advice on Journal Submissions from Editors and Readers](https://charlottelit.configio.com/pd/615/panel-discussion-lessons-from-the-slush-pile)<br>
