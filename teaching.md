@@ -13,7 +13,7 @@ permalink: /teaching/
 <small>October 8–November 18, 2025</small> 
 <br>
 <br>
-<small>Use coupon code KJ-BiZT9h026Y to save $10</small>
+<small>*Use coupon code KJ-BiZT9h026Y to save $10*</small>
 <br>
 
 [How to Engage an Audience: Lessons from fiction, radio, stand-up comedy and Shakespeare](https://sciencewriters2025.org/schedule/)<br>
