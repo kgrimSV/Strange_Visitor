@@ -12,7 +12,6 @@ permalink: /teaching/
 <small>Editorial Freelancers Association Asynchronous Class</small><br>
 <small>October 8–November 18, 2025</small> 
 <br>
-<br>
 <small>*Use coupon code KJ-BiZT9h026Y to save $10*</small>
 <br>
 
