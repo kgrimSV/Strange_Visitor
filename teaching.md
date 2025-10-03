@@ -48,7 +48,7 @@ permalink: /teaching/
   panel = "
 
 Essay Writing: Finding Your Voice  <br>
-<small>Science Policy & Advocacy for Research Competition (SPARC) workshop</small><br>
+<small>Science Policy & Advocacy for Research Competition (SPARC) Workshop</small><br>
 <small>September 23, 2025</small> 
 <br>
 <br>
