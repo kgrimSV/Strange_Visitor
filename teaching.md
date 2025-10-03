@@ -47,6 +47,12 @@ permalink: /teaching/
   title = "Past"
   panel = "
 
+Essay Writing: Finding Your Voice  <br>
+<small>Science Policy & Advocacy for Research Competition (SPARC) workshop</small><br>
+<small>September 23, 2025</small> 
+<br>
+<br>
+
 Developing Effective Science Communication: Lessons from Journalism, Fiction, and Academia  <br>
 <small>Editorial Freelancers Association Asynchronous Class</small><br>
 <small>February 26–April 8, 2025</small> 
