@@ -8,16 +8,11 @@ permalink: /teaching/
 
 ## Upcoming
 
-[Developing Effective Science Communication: Beginning](https://community.the-efa.org/events/EventDetails.aspx?alias=effective-science-communication-beginning-fa25)  <br>
+[Developing Effective Science Communication: Beginning](https://community.the-efa.org/event/effective-science-communication-beginning-sp26)  <br>
 <small>Editorial Freelancers Association Asynchronous Class</small><br>
-<small>October 8–November 18, 2025</small> 
+<small>February 11–March 24, 2025</small> 
 <br>
 <small>*Use coupon code KJ-BiZT9h026Y to save $10*</small>
-<br>
-
-[How to Engage an Audience: Lessons from fiction, radio, stand-up comedy and Shakespeare](https://sciencewriters2025.org/schedule/)<br>
-<small>National Association of Science Writers Panel Discussion</small><br>
-<small>November 9, 2025</small> 
 <br>
 
 [Lessons from the Slush Pile: Advice on Journal Submissions from Editors and Readers](https://charlottelit.configio.com/pd/615/panel-discussion-lessons-from-the-slush-pile)<br>
@@ -47,6 +42,18 @@ permalink: /teaching/
   title = "Past"
   panel = "
 
+[How to Engage an Audience: Lessons from fiction, radio, stand-up comedy and Shakespeare](https://sciencewriters2025.org/schedule/)<br>
+<small>National Association of Science Writers Panel Discussion</small><br>
+<small>November 9, 2025</small> 
+<br>
+<br>
+
+Developing Effective Science Communication: Beginning  <br>
+<small>Editorial Freelancers Association Asynchronous Class</small><br>
+<small>October 8–November 18, 2025</small> 
+<br>
+<br>
+
 Essay Writing: Finding Your Voice  <br>
 <small>Science Policy & Advocacy for Research Competition (SPARC) Workshop</small><br>
 <small>September 23, 2025</small> 
@@ -59,13 +66,13 @@ Developing Effective Science Communication: Lessons from Journalism, Fiction, an
 <br>
 <br>
 
-<a href='https://www.associationofsciencecommunicators.org/conferences/science-talk-25/'>Conscious Language: Treating People with Dignity</a>  <br>
+Conscious Language: Treating People with Dignity  <br>
 <small>SCIENCE TALK 2025 Virtual Talk</small><br>
 <small>March 17, 2025</small>	
 <br>
 <br>
    
-<a href='https://aceseditors.org/conference/past-conferences/vcon24-central'>How to Fix an Article with a Broken Structure</a> <br>
+How to Fix an Article with a Broken Structure <br>
 <small>ACES VCON24 Webinar</small> <br>
 <small>September 26, 2024</small>"
 
