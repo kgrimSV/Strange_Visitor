@@ -8,18 +8,17 @@ permalink: /teaching/
 
 ## Upcoming
 
+[Lessons from the Slush Pile: Advice on Journal Submissions from Editors and Readers](https://charlottelit.configio.com/pd/615/panel-discussion-lessons-from-the-slush-pile)<br>
+<small>Charlotte Lit Panel Discussion</small><br>
+<small>December 4, 2025</small> 
+<br>
+<br>
+
 [Developing Effective Science Communication: Beginning](https://community.the-efa.org/event/effective-science-communication-beginning-sp26)  <br>
 <small>Editorial Freelancers Association Asynchronous Class</small><br>
 <small>February 11–March 24, 2025</small> 
 <br>
 <small>*Use coupon code KJ-BiZT9h026Y to save $10*</small>
-<br>
-
-[Lessons from the Slush Pile: Advice on Journal Submissions from Editors and Readers](https://charlottelit.configio.com/pd/615/panel-discussion-lessons-from-the-slush-pile)<br>
-<small>Charlotte Lit Panel Discussion</small><br>
-<small>December 4, 2025</small> 
-<br>
-
 <br>
 
 ---
