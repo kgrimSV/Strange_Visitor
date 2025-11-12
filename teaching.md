@@ -60,15 +60,15 @@ Essay Writing: Finding Your Voice  <br>
 <br>
 <br>
 
-Developing Effective Science Communication: Lessons from Journalism, Fiction, and Academia  <br>
-<small>Editorial Freelancers Association Asynchronous Class</small><br>
-<small>February 26–April 8, 2025</small> 
-<br>
-<br>
-
 Conscious Language: Treating People with Dignity  <br>
 <small>SCIENCE TALK 2025 Virtual Talk</small><br>
 <small>March 17, 2025</small>	
+<br>
+<br>
+
+Developing Effective Science Communication: Lessons from Journalism, Fiction, and Academia  <br>
+<small>Editorial Freelancers Association Asynchronous Class</small><br>
+<small>February 26–April 8, 2025</small> 
 <br>
 <br>
    
