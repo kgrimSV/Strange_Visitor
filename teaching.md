@@ -16,7 +16,7 @@ permalink: /teaching/
 
 [Developing Effective Science Communication: Beginning](https://community.the-efa.org/event/effective-science-communication-beginning-sp26)  <br>
 <small>Editorial Freelancers Association Asynchronous Class</small><br>
-<small>February 11–March 24, 2025</small> 
+<small>February 11–March 24, 2026</small> 
 <br>
 <small>*Use coupon code KJ-BiZT9h026Y to save $10*</small>
 <br>
