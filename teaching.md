@@ -42,7 +42,7 @@ permalink: /teaching/
   title = "Past"
   panel = "
 
-[How to Engage an Audience: Lessons from fiction, radio, stand-up comedy and Shakespeare](https://sciencewriters2025.org/schedule/)<br>
+How to Engage an Audience: Lessons from fiction, radio, stand-up comedy and Shakespeare  <br>
 <small>National Association of Science Writers Panel Discussion</small><br>
 <small>November 9, 2025</small> 
 <br>
