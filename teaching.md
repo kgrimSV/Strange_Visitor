@@ -8,17 +8,22 @@ permalink: /teaching/
 
 ## Upcoming
 
-[Lessons from the Slush Pile: Advice on Journal Submissions from Editors and Readers](https://charlottelit.configio.com/pd/615/panel-discussion-lessons-from-the-slush-pile)<br>
-<small>Charlotte Lit Panel Discussion</small><br>
-<small>December 4, 2025</small> 
-<br>
-<br>
-
 [Developing Effective Science Communication: Beginning](https://community.the-efa.org/event/effective-science-communication-beginning-sp26)  <br>
 <small>Editorial Freelancers Association Asynchronous Class</small><br>
 <small>February 11–March 24, 2026</small> 
 <br>
 <small>*Use coupon code KJ-BiZT9h026Y to save $10*</small>
+<br>
+
+[Developmental Editing Skills: Clues to Help You Unearth a Story’s Theme](https://webinars.editors.ca/upcoming_webinar/developmental-editing-skills-clues-to-help-you-unearth-a-storys-theme/)  <br>
+<small>Editors Canada Webinar</small><br>
+<small>March 31, 2026</small> 
+<br>
+
+Developing Effective Science Communication: Intermediate<br>
+<small>Editorial Freelancers Association Asynchronous Class</small><br>
+<small>May 13–June 23, 2026</small> 
+<br>
 <br>
 
 ---
@@ -41,7 +46,13 @@ permalink: /teaching/
   title = "Past"
   panel = "
 
-How to Engage an Audience: Lessons from fiction, radio, stand-up comedy and Shakespeare  <br>
+Lessons from the Slush Pile: Advice on Journal Submissions from Editors and Readers<br>
+<small>Charlotte Lit Panel Discussion</small><br>
+<small>December 4, 2025</small> 
+<br>
+<br>
+
+How to Engage an Audience: Lessons from Fiction, Radio, Stand-Up Comedy and Shakespeare<br>
 <small>National Association of Science Writers Panel Discussion</small><br>
 <small>November 9, 2025</small> 
 <br>
