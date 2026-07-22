@@ -22,7 +22,7 @@ Developing Effective Science Communication: Beginning<br>
 
 Developing Effective Science Communication: Intermediate<br>
 <small>Editorial Freelancers Association Asynchronous Class</small><br>
-<small>April 14-May 26, 2027</small> 
+<small>April 14-May 25, 2027</small> 
 <br>
 
 ---
