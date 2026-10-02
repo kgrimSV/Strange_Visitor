@@ -8,23 +8,6 @@ permalink: /teaching/
 
 ## Upcoming
 
-[Developing Effective Science Communication: Beginning](https://courses.the-efa.org/courses/231141)<br>
-<small>Editorial Freelancers Association Asynchronous Class</small><br>
-<small>October 7-November 17, 2026</small> 
-<br>
-<small>*Use coupon code KJ-BiZT9h026Y to save $10*</small>
-<br>
-
-Developing Effective Science Communication: Beginning<br>
-<small>Editorial Freelancers Association Asynchronous Class</small><br>
-<small>February 17-March 30, 2027</small> 
-<br>
-
-[Developing Effective Science Communication: Intermediate](https://courses.the-efa.org/courses/301928)<br>
-<small>Editorial Freelancers Association Asynchronous Class</small><br>
-<small>April 14-May 25, 2027</small> 
-<br>
-
 ---
 
 ## Recorded
